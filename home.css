@@ -1,0 +1,447 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-home {
+  width: 100%;
+  height: 1766px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(244, 244, 244, 1);
+}
+.home-footerbg {
+  top: 1766px;
+  left: 0px;
+  width: 1440px;
+  height: 96px;
+  position: absolute;
+}
+.home-gmaillogo {
+  top: 1693px;
+  left: 1209px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+}
+.home-linkedinlogo {
+  top: 1690px;
+  left: 1311px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+}
+.home-rectangle7 {
+  top: 970px;
+  left: 732px;
+  width: 558px;
+  height: 630px;
+  position: absolute;
+  border-radius: 40px;
+}
+.home-rectangle12 {
+  top: 1523px;
+  left: 764px;
+  width: 176px;
+  height: 36px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text {
+  top: 1529px;
+  left: 778px;
+  color: rgba(53, 53, 53, 1);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle121 {
+  top: 1523px;
+  left: 954px;
+  width: 108px;
+  height: 36px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text02 {
+  top: 1529px;
+  left: 968px;
+  color: rgba(53, 53, 53, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle122 {
+  top: 1523px;
+  left: 1076px;
+  width: 113px;
+  height: 36px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text04 {
+  top: 1529px;
+  left: 1090px;
+  color: rgba(53, 53, 53, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text06 {
+  top: 1453px;
+  left: 770px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text11 {
+  top: 1376px;
+  left: 764px;
+  color: rgba(0, 0, 0, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: W8;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Std;
+  font-weight: 400;
+  line-height: 84px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-imr-cmockup {
+  top: 1080px;
+  left: 786px;
+  width: 449px;
+  height: 280px;
+  position: absolute;
+}
+.home-rectangle71 {
+  top: 970px;
+  left: 150px;
+  width: 558px;
+  height: 630px;
+  position: absolute;
+  border-radius: 40px;
+}
+.home-well-nestmockup {
+  top: 990px;
+  left: 196px;
+  width: 451px;
+  height: 386px;
+  position: absolute;
+}
+.home-rectangle11 {
+  top: 1523px;
+  left: 505px;
+  width: 171px;
+  height: 36px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text13 {
+  top: 1529px;
+  left: 519px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle10 {
+  top: 1523px;
+  left: 360px;
+  width: 131px;
+  height: 36px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text15 {
+  top: 1529px;
+  left: 374px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle8 {
+  top: 1523px;
+  left: 182px;
+  width: 164px;
+  height: 36px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text17 {
+  top: 1529px;
+  left: 196px;
+  color: rgba(53, 53, 53, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text19 {
+  top: 1453px;
+  left: 188px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text24 {
+  top: 1376px;
+  left: 182px;
+  color: rgba(0, 0, 0, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: W8;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Std;
+  font-weight: 400;
+  line-height: 84px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text26 {
+  top: 840px;
+  left: 180px;
+  color: rgba(0, 133, 86, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: W8;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Std;
+  font-weight: 400;
+  line-height: 84px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-seperating-line {
+  top: 830px;
+  left: 150px;
+  width: 1140px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.home-headshot {
+  top: 224px;
+  left: 820px;
+  width: 476px;
+  height: 502px;
+  position: absolute;
+  border-radius: 90px;
+}
+.home-text28 {
+  top: 243px;
+  left: 150px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  font-style: W8;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Std;
+  font-weight: 400;
+  line-height: 84px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text29 {
+  color: rgba(53, 53, 53, 1);
+}
+.home-text34 {
+  top: 464px;
+  left: 152px;
+  color: rgba(53, 53, 53, 1);
+  width: 614px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text36 {
+  top: 560px;
+  left: 150px;
+  color: rgba(67, 67, 67, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text37 {
+  text-decoration: NONE;
+}
+.home-rectangle3 {
+  top: 656px;
+  left: 150px;
+  width: 177px;
+  height: 54px;
+  position: absolute;
+  border-radius: 10px;
+}
+.home-text39 {
+  top: 671px;
+  left: 182px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 120px;
+  position: absolute;
+}
+.home-text41 {
+  top: 60px;
+  left: 1212px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text43 {
+  top: 60px;
+  left: 1077px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text45 {
+  top: 60px;
+  left: 972px;
+  color: rgba(53, 53, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: W6;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text47 {
+  top: 37px;
+  left: 150px;
+  color: rgba(53, 53, 53, 1);
+  width: 655px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: W8;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Std;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
