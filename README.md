@@ -1,3 +1,3 @@
 # Official-Portfolio-HTML
 
-[Edit here](https://diy-pwa.dev/~/gh/EddieBissellSimmons/eddiebissellsimmons)
+[Edit here](https://diy-pwa.dev/~/gh/EddieBissellSimmons/eddiebissellsimmons.github.io)
